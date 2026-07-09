@@ -19,7 +19,8 @@ A real-time Computer Vision project built using Python, OpenCV, and MediaPipe.
 
 ## Demo
 
-(Add a GIF or screenshot here)
+<img width="632" height="469" alt="Screenshot 2026-07-09 114456" src="https://github.com/user-attachments/assets/de013d87-e548-4e0f-99eb-3f1340ebb5eb" />
+
 
 ## Installation
 
